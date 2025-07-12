@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import CountApp from './Hooks/CountApp';
+// import CountApp from './Hooks/CountApp';
 // import MemoComp from './PureComponent/MemoComp';
 // import Button from './Button';
 // import Form1 from './Forms/Form1';
@@ -19,6 +19,7 @@ import CountApp from './Hooks/CountApp';
 // import PostList from './AxiosData/PostList';
 // import PostForm from './AxiosData/PostForm';
 // import DeleteAxios from './AxiosData/DeleteAxios';
+// import Counter from './Hooks/Counter';
 
 
 
@@ -27,7 +28,8 @@ function App() {
   return (
     <>
       <div className="App">
-        <CountApp/>
+        {/* <Counter/>
+        <CountApp/> */}
         {/* <DeleteAxios/> */}
         {/* <PostForm/> */}
         {/* <Form1/> */}
